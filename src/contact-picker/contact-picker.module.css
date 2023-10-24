@@ -1,0 +1,53 @@
+.contactPicker {
+  padding: 20px;
+  background-color: #f0f0f0;
+  border-radius: 10px;
+  margin: 20px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+.contactPicker h2 {
+  margin: 0 0 20px;
+}
+
+.propertyCheckbox {
+  display: block;
+  margin: 5px 0;
+}
+
+.getContactsButton {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.getContactsButton:hover {
+  background-color: #0056b3;
+}
+
+.contactList {
+  margin-top: 20px;
+  text-align: left;
+}
+
+.contact {
+  padding: 10px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin: 10px 0;
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.2);
+}
+
+.contactIcon {
+  margin-top: 10px;
+}
+
+.error {
+  color: #ff0000;
+  font-weight: bold;
+  margin-top: 20px;
+}
